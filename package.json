@@ -1,0 +1,24 @@
+{
+  "name": "Datagen",
+  "version": "1.0.0",
+  "description": "Small repository to create 10M historical entries for a database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node --max-old-space-size=8192 script/DataGen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeOrel/Datagen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeOrel/Datagen/issues"
+  },
+  "homepage": "https://github.com/JakeOrel/Datagen#readme",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}

@@ -1,2 +1,2 @@
 # Datagen
-Small repository to create 10M historical entries for a database
+Data Generation file for creating 10 Million historical entries, to match that of a ecommerce site product entry

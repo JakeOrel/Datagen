@@ -7,7 +7,7 @@ Data Generation file for creating 10 Million historical entries, to match that o
 npm install
 ```
 ```
-npm run dataGen
+npm run generate
 ```
 # Author
 Jake Orel
